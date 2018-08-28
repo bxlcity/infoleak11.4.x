@@ -13,3 +13,9 @@ iPhone X    iOS 11.3.1
 
 iPad Pro    iOS 11.2/11.2.1/11.3/11.3.1/11.4.1
 
+iPod        iOS 11.4.1
+
+
+This is the list of devices tested, but we think that all iDevices on all iOS 11 versions work done!
+If you get any issues reboot your device and if it continues contact me.
+Only few times it's happened that if you run the link, on first 5 minutes your device will be slower.
